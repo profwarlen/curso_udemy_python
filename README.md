@@ -46,6 +46,10 @@ Aula 14 - Entendendo sobre variáveis
 
 Aula 15 - Modificando o tipo de dados (Casting)
 
+Aula 16 - Praticando com String e Integers
+
+
+
 
 
 
