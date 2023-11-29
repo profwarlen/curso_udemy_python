@@ -44,6 +44,8 @@ Aula 13 - String e Números
 
 Aula 14 - Entendendo sobre variáveis
 
+Aula 15 - Modificando o tipo de dados (Casting)
+
 
 
 
