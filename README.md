@@ -42,6 +42,9 @@ Aula 12 - Adicionando comentário
 
 Aula 13 - String e Números
 
+Aula 14 - Entendendo sobre variáveis
+
+
 
 
 
