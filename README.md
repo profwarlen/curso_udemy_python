@@ -39,7 +39,6 @@ CONFIGURAR E-MAIL:
 Aula 11 - O print
 
 
-## SEÇÃO 4: PYTHON BÁSICO
 Aula 12 - Adicionando comentário
 
 
