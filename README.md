@@ -38,8 +38,9 @@ CONFIGURAR E-MAIL:
 ## SEÇÃO 4: PYTHON BÁSICO
 Aula 11 - O print
 
-
 Aula 12 - Adicionando comentário
+
+Aula 13 - String e Números
 
 
 
