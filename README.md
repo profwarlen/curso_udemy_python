@@ -63,7 +63,10 @@ Aula 22 - Operações matemáticas em Python
 
 Aula 23 - Operadores de compração
 
-Aula 24 - Operadores de atriuição
+Aula 24 - Operadores de atribuição
+
+## SEÇÃO 6: Controle de fluxo
+Aula 25 - if e Else
 
 
 
