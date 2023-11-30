@@ -63,6 +63,8 @@ Aula 22 - Operações matemáticas em Python
 
 Aula 23 - Operadores de compração
 
+Aula 24 - Operadores de atriuição
+
 
 
 
