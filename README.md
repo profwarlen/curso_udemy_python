@@ -48,7 +48,11 @@ Aula 15 - Modificando o tipo de dados (Casting)
 
 Aula 16 - Praticando com String e Integers
 
-Aula 17 - Adiconando input
+Aula 17 - Adicionando input
+
+Aula 18 - Calculando a idade com o input
+
+
 
 
 
