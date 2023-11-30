@@ -70,6 +70,8 @@ Aula 25 - if e Else
 
 Aula 26 - Operadores lógicos
 
+Aula 27 - Multiplo operadores de comparação
+
 
 
 
