@@ -52,6 +52,8 @@ Aula 17 - Adicionando input
 
 Aula 18 - Calculando a idade com o input
 
+Aula 19 - Entendedo o Slice (fatiar)
+
 
 
 
