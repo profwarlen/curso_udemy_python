@@ -74,6 +74,7 @@ Aula 27 - Multiplo operadores de comparação
 
 Aula 28 - For loop - utilizando números
 
+Aula 29 - For loop - utilizando strings
 
 
 
