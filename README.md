@@ -68,6 +68,9 @@ Aula 24 - Operadores de atribuição
 ## SEÇÃO 6: Controle de fluxo
 Aula 25 - if e Else
 
+Aula 26 - Operadores lógicos
+
+
 
 
 
