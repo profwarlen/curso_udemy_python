@@ -58,6 +58,12 @@ Aula 20 - Utilizando Formated String
 
 Aula 21 - Métodos para sting
 
+## SEÇÃO 5: OPERADORES
+Aula 22 - Operações matemáticas em Python
+
+
+
+
 
 
 
