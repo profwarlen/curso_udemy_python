@@ -61,6 +61,8 @@ Aula 21 - Métodos para sting
 ## SEÇÃO 5: OPERADORES
 Aula 22 - Operações matemáticas em Python
 
+Aula 23 - Operadores de compração
+
 
 
 
