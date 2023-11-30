@@ -56,6 +56,9 @@ Aula 19 - Entendedo o Slice (fatiar)
 
 Aula 20 - Utilizando Formated String
 
+Aula 21 - Métodos para sting
+
+
 
 
 
