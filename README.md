@@ -78,6 +78,9 @@ Aula 29 - For loop - utilizando strings
 
 Aula 30 - For loop - utilizando if e else
 
+Aula 31 - For loop - Nested loops
+
+
 
 
 
