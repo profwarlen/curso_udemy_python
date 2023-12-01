@@ -80,6 +80,8 @@ Aula 30 - For loop - utilizando if e else
 
 Aula 31 - For loop - Nested loops
 
+Aula 32 - For loop - separando strings
+
 
 
 
