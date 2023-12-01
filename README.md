@@ -84,6 +84,8 @@ Aula 32 - For loop - separando strings
 
 Aula 33 - For loop - criando retângulo
 
+Aula 34 - Conhecendo While loop
+
 
 
 
