@@ -82,6 +82,11 @@ Aula 31 - For loop - Nested loops
 
 Aula 32 - For loop - separando strings
 
+Aula 33 - For loop - criando retângulo
+
+
+
+
 
 
 
