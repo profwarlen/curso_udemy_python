@@ -92,6 +92,8 @@ Aula 36 - Diferenças entre for loop e while
 
 Aula 37 - Criando condições com While Loop
 
+Aula 38 - Leitura complementar While
+
 
 
 
