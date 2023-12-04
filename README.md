@@ -94,6 +94,11 @@ Aula 37 - Criando condições com While Loop
 
 Aula 38 - Leitura complementar While
 
+## SEÇÃO 7: Funções
+
+Aula 39 - De functions a libraries
+
+
 
 
 
