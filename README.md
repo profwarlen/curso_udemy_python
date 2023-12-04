@@ -86,6 +86,9 @@ Aula 33 - For loop - criando retângulo
 
 Aula 34 - Conhecendo While loop
 
+Aula 35 - Operador ternário
+
+
 
 
 
