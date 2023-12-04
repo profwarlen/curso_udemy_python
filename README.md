@@ -88,6 +88,7 @@ Aula 34 - Conhecendo While loop
 
 Aula 35 - Operador ternário
 
+Aula 36 - Diferenças entre for loop e while
 
 
 
