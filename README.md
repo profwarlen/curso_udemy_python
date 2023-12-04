@@ -102,6 +102,8 @@ Aula 40 - Como funciona a função
 
 Aula 41 - Criando uma função SOMA
 
+Aula 42 - Parâmetros e argumentos em um função
+
 
 
 
